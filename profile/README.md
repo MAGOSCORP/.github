@@ -25,7 +25,7 @@ Nosso principal produto é o **GYM IA**, um sistema que combina **inteligência 
 
 ## Our System
 
-<img align="left" height="94px" width="94px" alt="GYM IA Logo" src="https://cdn-icons-png.flaticon.com/512/69/69524.png"/>
+<img align="left" height="94px" width="94px" alt="GYM IA Logo" src="https://api-bolsistasregistro.tecnomaub.site/uploads/projects/project_1758739080392.jpeg"/>
 
 **GYM IA** \
 Sistema inteligente para academias \
